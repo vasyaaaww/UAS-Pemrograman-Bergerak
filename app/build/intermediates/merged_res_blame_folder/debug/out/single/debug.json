@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/drawable_bg_pink_gradient.xml.flat",
+        "source": "com.example.modul6.app-main-34:/drawable/bg_pink_gradient.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_item_shopping.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/item_shopping.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_shopping_summary.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_shopping_summary.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_shopping_list.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_shopping_list.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/drawable_bg_blue_gradient.xml.flat",
+        "source": "com.example.modul6.app-main-34:/drawable/bg_blue_gradient.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_activity_shopping.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/activity_shopping.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_shopping_add.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_shopping_add.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_shopping_home.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_shopping_home.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_fourth.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_fourth.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_second.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_first.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.modul6.app-merged_res-32:/layout_fragment_third.xml.flat",
+        "source": "com.example.modul6.app-main-34:/layout/fragment_third.xml"
+    }
+]
