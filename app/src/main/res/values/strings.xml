@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">modul7</string>
+
+    <string name="title_students">Data Mahasiswa (SQLite)</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_age">Usia</string>
+
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_yes">Ya</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Hapus</string>
+
+    <string name="title_edit_student">Edit Mahasiswa</string>
+    <string name="title_delete_student">Hapus Mahasiswa</string>
+
+    <string name="msg_saved">Data tersimpan</string>
+    <string name="msg_updated">Data diperbarui</string>
+    <string name="msg_deleted">Data dihapus</string>
+    <string name="msg_name_required">Nama tidak boleh kosong</string>
+    <string name="msg_confirm_delete">Yakin ingin menghapus %1$s?</string>
+</resources>

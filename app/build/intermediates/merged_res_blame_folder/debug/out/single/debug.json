@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.sqlitedemo.app-merged_res-15:/layout_activity_main.xml.flat",
+        "source": "com.example.sqlitedemo.app-main-17:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.sqlitedemo.app-merged_res-15:/layout_item_student.xml.flat",
+        "source": "com.example.sqlitedemo.app-main-17:/layout/item_student.xml"
+    }
+]
