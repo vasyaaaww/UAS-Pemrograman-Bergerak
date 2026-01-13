@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/layout_activity_second.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/layout_activity_circle_area.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/layout/activity_circle_area.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/layout_activity_luas_jajar_genjang.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/layout/activity_luas_jajar_genjang.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/drawable_bg_blue_gradient.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/drawable/bg_blue_gradient.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.intentpraktikum.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.intentpraktikum.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
